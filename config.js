@@ -1,16 +1,16 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTMzNTEzMjIxNjI2MjUyOTEwNA.GnIMmg.L0zBphFQoo-FvVSQdyMg42cIjhOwrC4H_GhxaI",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://kxklow:928zzl@cluster0.0cz6waa.mongodb.net/?retryWrites=true&w=majority",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "gg/noctichorizon", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/noctichorizon",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
